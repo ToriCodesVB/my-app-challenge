@@ -1,4 +1,16 @@
 h1 {
     text-align: center;
-    color: blueviolet;
+    color: #E61123;
+}
+img {
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+}
+
+.contact-btn {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
 }
